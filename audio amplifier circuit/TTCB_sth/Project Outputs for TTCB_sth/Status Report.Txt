@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TTCB_sth.PrjPcb]
+   Generated File[KDAT_PCB-RoundHoles.TXT]
+   Generated File[KDAT_PCB-SlotHoles.TXT]
+   Generated File[KDAT_PCB.LDP]
+   Generated File[KDAT_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 04:39:58 PM On 7/14/2022

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\ADMIN\Desktop\TTCB\TTCB_sth\KDAT_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=kdat_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=kdat_pcb-slotholes.txt|DrillLayers=gtl,gbl

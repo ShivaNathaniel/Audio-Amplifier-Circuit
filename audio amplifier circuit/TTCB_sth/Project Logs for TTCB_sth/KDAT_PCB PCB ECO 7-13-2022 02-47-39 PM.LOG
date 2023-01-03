@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=C100 NewDesignator=C1
+Change Component Designator: OldDesignator=C101 NewDesignator=C2
+Change Component Designator: OldDesignator=C102 NewDesignator=C3
+Change Component Designator: OldDesignator=C103 NewDesignator=C4
+Change Component Designator: OldDesignator=C104 NewDesignator=C5
+Change Component Designator: OldDesignator=C105 NewDesignator=C6
+Change Component Designator: OldDesignator=D100 NewDesignator=D1
+Change Component Designator: OldDesignator=D101 NewDesignator=D2
+Change Component Designator: OldDesignator=J100 NewDesignator=J1
+Change Component Designator: OldDesignator=J101 NewDesignator=J2
+Change Component Designator: OldDesignator=JDC100 NewDesignator=JDC
+Change Component Designator: OldDesignator=Q100 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q101 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q102 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q103 NewDesignator=Q4
+Change Component Designator: OldDesignator=R100 NewDesignator=R1
+Change Component Designator: OldDesignator=R101 NewDesignator=R2
+Change Component Designator: OldDesignator=R102 NewDesignator=R3
+Change Component Designator: OldDesignator=R103 NewDesignator=R4
+Change Component Designator: OldDesignator=R104 NewDesignator=R5
+Change Component Designator: OldDesignator=R105 NewDesignator=R6
+Change Component Designator: OldDesignator=R106 NewDesignator=R7
+Change Component Designator: OldDesignator=R107 NewDesignator=R8
+Change Component Designator: OldDesignator=R108 NewDesignator=R9
+Change Component Designator: OldDesignator=R109 NewDesignator=R10
+Change Component Designator: OldDesignator=VR100 NewDesignator=VR1
+Change Net Name : Old Net Name=NetC100_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC101_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC102_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC103_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC103_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetC104_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC104_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC105_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetD100_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD100_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetQ100_2 New Net Name=NetQ1_2
+Change Net Name : Old Net Name=NetQ101_3 New Net Name=NetQ2_3
+Change Net Name : Old Net Name=NetQ102_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ103_2 New Net Name=NetQ4_2
+Change Net Name : Old Net Name=NetQ103_3 New Net Name=NetQ4_3

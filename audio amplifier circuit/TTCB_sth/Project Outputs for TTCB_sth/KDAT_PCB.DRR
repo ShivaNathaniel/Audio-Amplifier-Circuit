@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: KDAT_PCB.PcbDoc   7/14/2022  04:39:58 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : KDAT_PCB-RoundHoles.TXT
+ASCII SlotHoles File : KDAT_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      32mil (0.8mm)                                             Round             28        PTH        0.00inch (0.00mm)
+T2      32mil (0.813mm)                                           Round             16        PTH        0.00inch (0.00mm)
+T3      35mil (0.899mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T4      40mil (1.016mm)                                           Slot              6         PTH        0.00inch (0.00mm)
+T5      50mil (1.27mm)                                            Slot              3         PTH        0.00inch (0.00mm)
+T6      59mil (1.501mm)                                           Round             12        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              69
+
+Total Processing Time (hh:mm:ss) : 00:00:00
